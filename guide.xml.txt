@@ -1,0 +1,1129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RBSTVPOA">
+    <display-name lang="pt">RBS TV Porto Alegre</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="REDERECORD">
+    <display-name lang="pt">RecordTV</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="REDETV">
+    <display-name lang="pt">TV Pampa</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="BANDEIRANTES">
+    <display-name lang="pt">Band HD</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="TVGAZETA">
+    <display-name lang="pt">Gazeta</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="TVCULTURA">
+    <display-name lang="pt">TV Cultura</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="TVERS">
+    <display-name lang="pt">TVE RS</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="BAH">
+    <display-name lang="pt">Bah!</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="TVURBANA">
+    <display-name lang="pt">TV Urbana</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="ULBRATV">
+    <display-name lang="pt">Ulbra TV</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="RDCTV">
+    <display-name lang="pt">RDC TV</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <channel id="UNITV">
+    <display-name lang="pt">UniTV</display-name>
+    <url>www.guide.com</url>
+  </channel>
+  <programme start="20200826120000 -0300" stop="20200826130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200826130000 -0300" stop="20200826132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200826132500 -0300" stop="20200826150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200826150000 -0300" stop="20200826164000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200826164000 -0300" stop="20200826173000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom! - Temp. 1 - Ep. 88</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+    <episode-num system="onscreen">S1 E88</episode-num>
+  </programme>
+  <programme start="20200826173000 -0300" stop="20200826175500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença - Ep. 102</title>
+    <desc lang="pt">Ellen sofre com a dificuldade da prova. Começa a Balada Cultural. Gilvan entrega a Dóris o comunicado de Aldo, que encontrou jogado no lixo. Felipe e Bóris elogiam a exposição de fotos montada por Lica e Ellen.</desc>
+    <credits>
+      <actor>que encontrou jogado no lixo</actor>
+    </credits>
+  </programme>
+  <programme start="20200826175500 -0300" stop="20200826184000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo - Ep. 99</title>
+    <desc lang="pt">Chalaça conta a Joaquim sobre sua vingança. Amália reconhece a joia que está com Domitila, e Peter fica intrigado.</desc>
+  </programme>
+  <programme start="20200826184000 -0300" stop="20200826191000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200826191000 -0300" stop="20200826200000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais - Temp. 1 - Ep. 99</title>
+    <desc lang="pt">Germano questiona Leonor sobre o pai de Eliza. Gilda confessa a Dino que esteve com Eliza no Rio. Leonor alerta Gilda que Germano procurou por ela.</desc>
+    <episode-num system="onscreen">S1 E99</episode-num>
+  </programme>
+  <programme start="20200826200000 -0300" stop="20200826203500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200826203500 -0300" stop="20200826212000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa - Temp. 1 - Ep. 134</title>
+    <desc lang="pt">Crô explica a Celeste o que aconteceu com Baltazar. Quinzé pergunta se Teodora ainda o ama. Tereza Cristina leva Pereirinha para jantar no Brasileiríssimo.</desc>
+    <episode-num system="onscreen">S1 E134</episode-num>
+  </programme>
+  <programme start="20200826212000 -0300" stop="20200826233000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Caxias x Grêmio - Ao Vivo</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil, a Libertadores, a Liga dos Campeões, mundiais de clubes e amistosos.</desc>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200826233000 -0300" stop="20200826234500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Com Lucas Gutierrez, Paulo Nunes. Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida. Participação do comentarista Paulo Nunes.</desc>
+    <credits>
+      <actor>Lucas Gutierrez</actor>
+      <actor>Paulo Nunes</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200826234500 -0300" stop="20200827004500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827004500 -0300" stop="20200827012500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial. Apresentado por Pedro Bial</actor>
+      <actor>o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20200827012500 -0300" stop="20200827021000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Agentes da S.H.I.E.L.D. - Temp. 3 - Ep. 7</title>
+    <desc lang="pt">Enquanto Daisy e a equipe tentam proteger os inumanos, uma revelação chocante é feita sobre o maior inimigo da S.H.I.E.L.D..</desc>
+    <credits>
+      <director>David Solomon</director>
+      <actor>Clark Gregg</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Ação</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20200827021000 -0300" stop="20200827040000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Serena</title>
+    <desc lang="pt">George e Serena querem construir um império no ramo da madeira. Ao descobrir que é infértil, ela quer se vingar da mulher com quem ele teve um filho.</desc>
+    <credits>
+      <director>Susanne Bier</director>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Bradley Cooper</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20200827040000 -0300" stop="20200827060000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827060000 -0300" stop="20200827083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Rio Grande, que traz ainda orientações de trânsito.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827083000 -0300" stop="20200827100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827100000 -0300" stop="20200827120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes. A apresentadora Fátima Bernardes comanda o programa que mistura comportamento</actor>
+      <actor>prestação de serviço, informação, música, entretenimento e muita diversão</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200827120000 -0300" stop="20200827130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827130000 -0300" stop="20200827132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200827132500 -0300" stop="20200827150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827150000 -0300" stop="20200827163500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde: Encontro de Amor</title>
+    <desc lang="pt">Marisa começa a namorar homem rico que está hospedado no hotel em que ela trabalha como camareira, mas ele não sabe de sua verdadeira profissão.</desc>
+    <credits>
+      <director>Wayne Wang</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Ralph Fiennes</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20200827163500 -0300" stop="20200827180000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200827180000 -0300" stop="20200827182500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200827182500 -0300" stop="20200827191000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200827191000 -0300" stop="20200827194000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827194000 -0300" stop="20200827203000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200827203000 -0300" stop="20200827214000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200827214000 -0300" stop="20200827224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200827224500 -0300" stop="20200827234000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hebe</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Andrea Beltrão</actor>
+      <actor>Valentina Herzage</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Biografia</category>
+  </programme>
+  <programme start="20200827234000 -0300" stop="20200828004500 -0300" channel="RBSTVPOA">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>David Shore</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20200828004500 -0300" stop="20200828014500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828014500 -0300" stop="20200828022500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial. Apresentado por Pedro Bial</actor>
+      <actor>o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20200828022500 -0300" stop="20200828030000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Agentes da S.H.I.E.L.D.</title>
+    <desc lang="pt">O agente Phil Coulson organiza um grupo altamente especializado para resolver casos ainda não classificados, numa organização conhecida como S.H.I.E.L.D..</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Clark Gregg</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200828030000 -0300" stop="20200828040000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Mansão Mal-Assombrada</title>
+    <desc lang="pt">Corretor leva família para visitar uma antiga mansão, mas ela é habitada por fantasmas que não os deixarão em paz até serem libertados de uma maldição.</desc>
+    <credits>
+      <director>Rob Minkoff</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Marsha Thomason</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20200828040000 -0300" stop="20200828060000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828060000 -0300" stop="20200828083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Rio Grande, que traz ainda orientações de trânsito.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828083000 -0300" stop="20200828100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828100000 -0300" stop="20200828120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes. A apresentadora Fátima Bernardes comanda o programa que mistura comportamento</actor>
+      <actor>prestação de serviço, informação, música, entretenimento e muita diversão</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200828120000 -0300" stop="20200828130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828130000 -0300" stop="20200828132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200828132500 -0300" stop="20200828150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828150000 -0300" stop="20200828163500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200828163500 -0300" stop="20200828180000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200828180000 -0300" stop="20200828182500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200828182500 -0300" stop="20200828191500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200828191500 -0300" stop="20200828194500 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828194500 -0300" stop="20200828203000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200828203000 -0300" stop="20200828214000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200828214000 -0300" stop="20200828224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200828224500 -0300" stop="20200828233500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com Glória Maria e Sandra Annenberg. Com apresentação de Glória Maria e Sandra Annenberg, o 'Globo Repórter' é o jornalístico documental que vai ao ar nas noites de sexta-feira.</desc>
+    <credits>
+      <actor>Glória Maria e Sandra Annenberg. Com apresentação de Glória Maria e Sandra Annenberg</actor>
+      <actor>o 'Globo Repórter' é o jornalístico documental que vai ao ar nas noites de sexta-feira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20200828233500 -0300" stop="20200829002500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão Globoplay: S.W.A.T. - Temp. 1</title>
+    <desc lang="pt">Um líder da S.W.A.T. está dividido entre a lealdade às ruas e o dever com seus colegas oficiais quando é encarregado de comandar uma unidade especializada.</desc>
+    <credits>
+      <director>Shawn Ryan</director>
+      <actor>Shemar Moore</actor>
+      <actor>Alex Russell</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200829002500 -0300" stop="20200829012500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200829012500 -0300" stop="20200829020500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial. Apresentado por Pedro Bial</actor>
+      <actor>o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20200829020500 -0300" stop="20200829025000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Agentes da S.H.I.E.L.D.</title>
+    <desc lang="pt">O agente Phil Coulson organiza um grupo altamente especializado para resolver casos ainda não classificados, numa organização conhecida como S.H.I.E.L.D..</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Clark Gregg</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200829025000 -0300" stop="20200829035900 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200829035900 -0300" stop="20200829055000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão II</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200829055000 -0300" stop="20200829065000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Com Sandra Annenberg. Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.</desc>
+    <credits>
+      <actor>Sandra Annenberg. Reportagens sobre cidadania</actor>
+      <actor>educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20200829065000 -0300" stop="20200829075000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Galpão Crioulo</title>
+    <desc lang="pt">Além de receber grandes nomes da música regionalista gaúcha, Neto Fagundes e Shana Müller apresentam conteúdos relacionados ao turismo e à gastronomia do estado.</desc>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20200829075000 -0300" stop="20200829120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães, Patrícia Poeta e Tiago Leifert comandam programa de variedades das manhãs de sábado, ao vivo.</desc>
+    <credits>
+      <director>Alexandre Matoso</director>
+      <actor>Ana Furtado</actor>
+      <actor>André Marques</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200829120000 -0300" stop="20200829125000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200829125000 -0300" stop="20200829131500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200829131500 -0300" stop="20200829140000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200829140000 -0300" stop="20200829150500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <desc lang="pt">Toma lá, dá cá mostra o cotidiano de uma família separada por um corredor.</desc>
+    <credits>
+      <director>Roberto Talma</director>
+      <actor>Miguel Falabella</actor>
+      <actor>Marisa Orth</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Humor</category>
+  </programme>
+  <programme start="20200829150500 -0300" stop="20200829155000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Música Boa</title>
+    <desc lang="pt">Sob o comando de IZA, grandes nomes da música cantando composições próprias e interpretando sucessos de outros artistas.</desc>
+    <date>2019</date>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20200829155000 -0300" stop="20200829183000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Programa de auditório apresentado por Luciano Huck, o Caldeirão traz matérias especiais, atrações musicais e concursos, além de quadros de sucesso.</desc>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200829183000 -0300" stop="20200829191500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200829191500 -0300" stop="20200829194000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200829194000 -0300" stop="20200829203000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200829203000 -0300" stop="20200829214000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200829214000 -0300" stop="20200829224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200829224500 -0300" stop="20200829231500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Zorra</title>
+    <desc lang="pt">ístico em esquetes rápidos, visuais e musicais. Com redação final de Marcius Melhem, Celso Taddei e Gabriela Amaral e direção geral de Mauro Farias.</desc>
+    <credits>
+      <director>Mauro Farias</director>
+      <actor>Fabiana Karla</actor>
+      <actor>Mariana Santos</actor>
+      <actor>Celso Taddei e Gabriela Amaral e direção geral de Mauro Farias</actor>
+      <actor>redação final de Marcius Melhem</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Humor</category>
+  </programme>
+  <programme start="20200829231500 -0300" stop="20200830010500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200830010500 -0300" stop="20200830023500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Supercine</title>
+    <desc lang="pt">Supercine Supercine mostra longas-metragens de sucesso, muitas vezes inéditos na TV e que normalmente tratam do relacionamento humano.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200830023500 -0300" stop="20200830034500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200830034500 -0300" stop="20200830062500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão II</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200830062500 -0300" stop="20200830075500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Galpão Crioulo</title>
+    <desc lang="pt">Além de receber grandes nomes da música regionalista gaúcha, Neto Fagundes e Shana Müller apresentam conteúdos relacionados ao turismo e à gastronomia do estado.</desc>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20200830075500 -0300" stop="20200830083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">De Ali Kamel. Novidades e informação para quem quer investir e empreender no Brasil.</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200830083000 -0300" stop="20200830093000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">De Ali Kamel. As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200830093000 -0300" stop="20200830100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">De Konrado Reys. O Auto Esporte traz as principais notícias sobre automóveis, lançamentos nacionais e importados, avaliações, testes e comparativos exclusivos e dicas de manutenção de carros e motos.</desc>
+    <credits>
+      <director>Konrado Reys</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200830100000 -0300" stop="20200830123000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">De Ali Kamel. Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.</desc>
+    <category lang="pt">Esportivo</category>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+  </programme>
+  <programme start="20200830123000 -0300" stop="20200830134500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Tamanho Família</title>
+    <desc lang="pt">Tamanho Família vai trazer as relações familiares dos famosos para a TV nas tardes de domingo para todo mundo discutir e brincar junto.</desc>
+    <credits>
+      <director>Bernardo Portugal</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200830134500 -0300" stop="20200830160000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Temperatura Máxima</title>
+    <desc lang="pt">Caracteriza-se por reapresentar longas-metragens que fizeram sucesso em outras sessões de cinema da Globo. Temperatura Máxima estreou dia 3 de janeiro de 1989.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200830160000 -0300" stop="20200830180500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Futebol 2020</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil, a Libertadores, a Liga dos Campeões, mundiais de clubes e amistosos.</desc>
+    <date>2020</date>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200830180500 -0300" stop="20200830200000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Domingão do Faustão</title>
+    <desc lang="pt">Programa de auditório apresentado por Fausto Silva, que reúne nomes da televisão brasileira, atrações musicais e quadros variados.</desc>
+    <credits>
+      <director>Jayme Praça</director>
+      <actor>Fausto Silva. Programa de auditório apresentado por Fausto Silva</actor>
+      <actor>que reúne nomes da televisão brasileira, atrações musicais e quadros variados</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200830200000 -0300" stop="20200830224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta.</desc>
+    <credits>
+      <director>Ali Kamel</director>
+      <actor>Poliana Abritta</actor>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200830224500 -0300" stop="20200831003000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Domingo Maior</title>
+    <desc lang="pt">Uma das sessões de cinema mais antigas da Rede Globo. Desde 1979, a atração caracteriza-se por apresentar longas-metragens de sucesso, com temas de ação, aventura e romance, para um público distinto.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200831003000 -0300" stop="20200831022000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Cinemaço</title>
+    <desc lang="pt">No 'Cinemaço', os cinéfilos da madrugada poderão relembrar grandes sucessos das últimas décadas, com elencos estrelados, logo após o 'Domingo Maior'.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200831022000 -0300" stop="20200831040000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200831040000 -0300" stop="20200831060000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831060000 -0300" stop="20200831083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Rio Grande, que traz ainda orientações de trânsito.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831083000 -0300" stop="20200831100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831100000 -0300" stop="20200831120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes. A apresentadora Fátima Bernardes comanda o programa que mistura comportamento</actor>
+      <actor>prestação de serviço, informação, música, entretenimento e muita diversão</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200831120000 -0300" stop="20200831130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831130000 -0300" stop="20200831132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200831132500 -0300" stop="20200831150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831150000 -0300" stop="20200831163000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200831163000 -0300" stop="20200831175500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200831175500 -0300" stop="20200831182500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200831182500 -0300" stop="20200831191000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200831191000 -0300" stop="20200831194000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831194000 -0300" stop="20200831203000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200831203000 -0300" stop="20200831214000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200831214000 -0300" stop="20200831224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200831224500 -0300" stop="20200901003500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Tela Quente</title>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200901003500 -0300" stop="20200901013500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901013500 -0300" stop="20200901021500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial. Apresentado por Pedro Bial</actor>
+      <actor>o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20200901021500 -0300" stop="20200901030000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Agentes da S.H.I.E.L.D.</title>
+    <desc lang="pt">O agente Phil Coulson organiza um grupo altamente especializado para resolver casos ainda não classificados, numa organização conhecida como S.H.I.E.L.D..</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Clark Gregg</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200901030000 -0300" stop="20200901040000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200901040000 -0300" stop="20200901060000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901060000 -0300" stop="20200901083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Rio Grande, que traz ainda orientações de trânsito.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901083000 -0300" stop="20200901100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901100000 -0300" stop="20200901120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes. A apresentadora Fátima Bernardes comanda o programa que mistura comportamento</actor>
+      <actor>prestação de serviço, informação, música, entretenimento e muita diversão</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200901120000 -0300" stop="20200901130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901130000 -0300" stop="20200901132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200901132500 -0300" stop="20200901150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901150000 -0300" stop="20200901163500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200901163500 -0300" stop="20200901180000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901182500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200901182500 -0300" stop="20200901191000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200901191000 -0300" stop="20200901194000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901194000 -0300" stop="20200901203000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200901203000 -0300" stop="20200901214000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200901214000 -0300" stop="20200901224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200901224500 -0300" stop="20200901232000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Cine Holliúdy</title>
+    <desc lang="pt">A chegada de Marylin e Maria do Socorro a Pitombas pode antecipar um problema pelo qual Francisgleydisson não queria ter de passar.</desc>
+    <credits>
+      <director>Patricia Pedrosa</director>
+      <actor>Edmilson Filho</actor>
+      <actor>Letícia Colin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20200901232000 -0300" stop="20200902002500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Tapas &amp; Beijos</title>
+    <desc lang="pt">De Mauricio Farias. Com Fernanda Torres, Andrea Beltrão. Sinopse Não Disponível.</desc>
+    <category lang="pt">Comédia</category>
+    <credits>
+      <director>Mauricio Farias</director>
+      <actor>Fernanda Torres</actor>
+      <actor>Andrea Beltrão</actor>
+    </credits>
+  </programme>
+  <programme start="20200902002500 -0300" stop="20200902012500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902012500 -0300" stop="20200902020500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial. Apresentado por Pedro Bial</actor>
+      <actor>o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20200902020500 -0300" stop="20200902025000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Agentes da S.H.I.E.L.D.</title>
+    <desc lang="pt">O agente Phil Coulson organiza um grupo altamente especializado para resolver casos ainda não classificados, numa organização conhecida como S.H.I.E.L.D..</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Clark Gregg</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200902025000 -0300" stop="20200902040000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200902040000 -0300" stop="20200902060000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902060000 -0300" stop="20200902083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Rio Grande, que traz ainda orientações de trânsito.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902083000 -0300" stop="20200902100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902100000 -0300" stop="20200902120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes. A apresentadora Fátima Bernardes comanda o programa que mistura comportamento</actor>
+      <actor>prestação de serviço, informação, música, entretenimento e muita diversão</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200902120000 -0300" stop="20200902130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902130000 -0300" stop="20200902132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200902132500 -0300" stop="20200902150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902150000 -0300" stop="20200902164000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200902164000 -0300" stop="20200902173000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200902173000 -0300" stop="20200902175500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200902175500 -0300" stop="20200902184000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200902184000 -0300" stop="20200902191000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902191000 -0300" stop="20200902200000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200902200000 -0300" stop="20200902203500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200902203500 -0300" stop="20200902212000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200902212000 -0300" stop="20200902233000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Futebol 2020</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil, a Libertadores, a Liga dos Campeões, mundiais de clubes e amistosos.</desc>
+    <date>2020</date>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20200902233000 -0300" stop="20200902234500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Segue o Jogo</title>
+    <desc lang="pt">Com Lucas Gutierrez, Paulo Nunes. Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida. Participação do comentarista Paulo Nunes.</desc>
+    <credits>
+      <actor>Lucas Gutierrez</actor>
+      <actor>Paulo Nunes</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200902234500 -0300" stop="20200903004500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903004500 -0300" stop="20200903012500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial. Apresentado por Pedro Bial</actor>
+      <actor>o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20200903012500 -0300" stop="20200903021000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Agentes da S.H.I.E.L.D.</title>
+    <desc lang="pt">O agente Phil Coulson organiza um grupo altamente especializado para resolver casos ainda não classificados, numa organização conhecida como S.H.I.E.L.D..</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Clark Gregg</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200903021000 -0300" stop="20200903040000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200903040000 -0300" stop="20200903060000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903060000 -0300" stop="20200903083000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Rio Grande, que traz ainda orientações de trânsito.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903083000 -0300" stop="20200903100000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903100000 -0300" stop="20200903120000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes. A apresentadora Fátima Bernardes comanda o programa que mistura comportamento</actor>
+      <actor>prestação de serviço, informação, música, entretenimento e muita diversão</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200903120000 -0300" stop="20200903130000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903130000 -0300" stop="20200903132500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre Grêmio e Inter, além das principais informações do esporte no Brasil e no mundo.</desc>
+    <date>2019</date>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200903132500 -0300" stop="20200903150000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903150000 -0300" stop="20200903163500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200903163500 -0300" stop="20200903180000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200903180000 -0300" stop="20200903182500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200903182500 -0300" stop="20200903191000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Novo Mundo</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200903191000 -0300" stop="20200903194000 -0300" channel="RBSTVPOA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">O RBS Notícias tem a proposta de noticiar os principais assuntos do dia, projetando também o que será manchete no dia seguinte.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903194000 -0300" stop="20200903203000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.</desc>
+  </programme>
+  <programme start="20200903203000 -0300" stop="20200903214000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200903214000 -0300" stop="20200903224500 -0300" channel="RBSTVPOA">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Sinopse Não Disponível</desc>
+  </programme>
+  <programme start="20200903224500 -0300" stop="20200903234000 -0300" channel="RBSTVPOA">
+    <title lang="pt">Hebe</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Andrea Beltrão</actor>
+      <actor>Valentina Herzage</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Biografia</category>
+  </programme>
+  <programme start="20200903234000 -0300" stop="20200904004500 -0300" channel="RBSTVPOA">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Sinopse Não Disponível.</desc>
+    <credits>
+      <director>David Shore</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Nicholas Gonzalez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Drama</category>
+  </programme>
+  
+</tv>
